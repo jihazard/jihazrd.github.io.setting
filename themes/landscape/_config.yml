@@ -29,7 +29,9 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-139973556-1
+  enable: true
+  siteid: UA-139973556-1
 gauges_analytics:
 favicon: /favicon.png
 twitter:
@@ -40,5 +42,5 @@ fb_app_id:
 # Deployment
 deploy:
   type: git
-  repo: https://github.com/jihazard/devCode84.github.io
+  repo: https://github.com/jihazard/jihazard.github.io.git
   branch: master

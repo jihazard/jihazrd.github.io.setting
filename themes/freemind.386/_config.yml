@@ -62,7 +62,7 @@ duoshuo_shortname:
 
 
 # Analytics (change to yours)
-google_analytics:
+google_analytics: UA-139973556-1
   enable: true
   siteid: UA-139973556-1
 
